@@ -51,7 +51,7 @@ A skill foi pensada para **estudo, pesquisa e defesa**. Ela orienta testes apena
 ## Autora
 
 **Daniela Benicio** · [@danielabenicio](https://github.com/danielabenicio)
-Cientista da Computação, com foco em segurança de LLMs.
+Cientista da Computação, com foco em Segurança de LLMs.
 
 Contribuições são bem-vindas: abra uma issue ou um pull request.
 
